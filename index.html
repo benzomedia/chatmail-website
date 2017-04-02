@@ -171,10 +171,14 @@
         <h3 class="grey-section-header bold"> Sounds Amazing? It Is!</h3>
         <h4 class="grey-section-subtext light">Take it for a ride for any of your WordPress projects!</h4>
 
-        <form id="email-form" class="form-group email-form">
-            <input type="email" class="form-control email-input" id="exampleInputEmail1" placeholder="Enter your email">
+        <form id="email-form" class="form-group email-form" action="mailchimp.php" method="post">
+            <input type="email" class="form-control email-input" name="email" id="newsletter-email-input" placeholder="Enter your email">
             <button type="submit" class="btn submit-btn">Download</button>
+            <div id="newsletter-spinner">
+                <i class="fa fa-cog fa-spin" style="font-size:24px"></i>
+            </div>
         </form>
+        <div id="newsletter-loading-div"></div>
         <!--email-form-->
     </div>
     <!--grey-section-->

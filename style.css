@@ -275,6 +275,10 @@ body {
     color: white;
 }
 
+#newsletter-spinner {
+    display: none;
+}
+
 .footer {
     background-color: #464646;
     padding-top: 20px;
