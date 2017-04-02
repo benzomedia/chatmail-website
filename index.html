@@ -8,6 +8,10 @@
     <!-- Optional theme -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 
+    <script
+            src="https://code.jquery.com/jquery-3.2.1.min.js"
+            integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+            crossorigin="anonymous"></script>
     <!-- Latest compiled and minified JavaScript -->
     <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script> -->
 
@@ -39,7 +43,7 @@
 
             <div class="header">
                 <img class="logo" src="images/logo.svg" />
-                <button class="header-button"> Download FREE! </button>
+               <a href="#email-form"><button class="header-button"> Download FREE! </button></a>
             </div>
             <!--header-->
 
@@ -48,7 +52,7 @@
                     <h1 class="header-headline bold"> Free WordPress <br> ChatMail Plugin</h1>
                     <h4 class="header-running-text light"> Let your clients reach your inbox easily <br>
                   With ChatMail awesome plugin.</h4>
-                    <button class="hero-button hvr-fade"> Download FREE! </button>
+                    <a href="#email-form"><button class="hero-button hvr-fade"> Download FREE! </button></a>
                 </div>
                 <!--hero-right-->
 
@@ -167,10 +171,10 @@
         <h3 class="grey-section-header bold"> Sounds Amazing? It Is!</h3>
         <h4 class="grey-section-subtext light">Take it for a ride for any of your WordPress projects!</h4>
 
-        <div class="form-group email-form">
+        <form id="email-form" class="form-group email-form">
             <input type="email" class="form-control email-input" id="exampleInputEmail1" placeholder="Enter your email">
-            <button type="submit" class="btn submit-btn">Submit</button>
-        </div>
+            <button type="submit" class="btn submit-btn">Download</button>
+        </form>
         <!--email-form-->
     </div>
     <!--grey-section-->

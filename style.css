@@ -27,7 +27,7 @@ body {
     width: 101%;
     background-image: url(images/wave.svg);
     background-repeat: no-repeat;
-    height: 141px;
+    height: 29%;
     background-size: cover;
 }
 
@@ -86,6 +86,8 @@ body {
 }
 
 .hero-button {
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
     background-color: #4E8BF9;
     border-radius: 50px;
     border: 1px solid #4E8BF9;
@@ -93,6 +95,10 @@ body {
     height: 51px;
     color: white;
     margin: 30px auto;
+}
+
+.hero-button:hover{
+    background-color: #4EACF9;
 }
 
 .header-headline {
