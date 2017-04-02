@@ -1,0 +1,90 @@
+/* Small Devices, Tablets */
+
+@media only screen and (min-width: 768px) {
+
+  /*.background:after {
+      content: "";
+      display: block;
+      position: absolute;
+      top: 492px;
+      left: -8px;
+      width: 120%;
+      background-image: url(images/wave.svg);
+      background-repeat: no-repeat;
+      height: 140px;
+      background-size: cover;
+  }*/
+
+    .header-button {
+        max-width: auto;
+        margin-top: 0;
+    }
+
+    .header-button:hover {
+        background-color: #fff;
+        color: #F8B34B;
+    }
+
+
+
+    .header-headline {
+        text-align: left;
+        padding-top: 75px;
+    }
+    .header-running-text {
+        line-height: 30px;
+        margin: 0;
+        text-align: left;
+    }
+    .hero-button {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .hero-right {
+        text-align: left;
+        padding-left: 80px;
+    }
+    .chat-screen {
+        max-width: 365px;
+        margin: inherit;
+        float: right;
+    }
+    .bullets-section {
+        padding-top: 80px;
+    }
+    .bullet {
+        padding: 0;
+    }
+    .ipad {
+        max-width: 600px;
+    }
+    .icon {
+        display: flex;
+        padding-top: 50px;
+        padding-left: 100px;
+        height: 140px;
+    }
+    .icon-image {
+        text-align: center;
+    }
+    .icon-text {
+        max-width: 320px;
+        padding-top: 0;
+    }
+    .webscope {
+        margin-top: 0;
+    }
+    .social-links {
+        float: right;
+    }
+}
+
+
+/* Medium Devices, Desktops */
+
+@media only screen and (min-width: 992px) {}
+
+
+/* Large Devices, Wide Screens */
+
+@media only screen and (min-width: 1200px) {}

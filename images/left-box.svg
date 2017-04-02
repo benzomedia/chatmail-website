@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="483px" height="267px" viewBox="0 0 483 267" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>left-box</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="56.0131493%" y1="100%" x2="61.8105089%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FACC84" offset="0%"></stop>
+            <stop stop-color="#F9B148" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-5" transform="translate(0.000000, -328.000000)" fill="url(#linearGradient-1)">
+            <g id="Stripes">
+                <g transform="translate(-561.000000, -696.000000)" id="left-box">
+                    <polygon transform="translate(767.839905, 1164.515937) rotate(348.000000) translate(-767.839905, -1164.515937) " points="468.936061 1084.11214 1066.74375 1085.15256 1030.13277 1244.91973 468.936061 1244.91974"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

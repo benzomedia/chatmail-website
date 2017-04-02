@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="544px" height="185px" viewBox="0 0 544 185" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>right-box</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="56.0131493%" y1="100%" x2="61.8105089%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#F6AB29" offset="0%"></stop>
+            <stop stop-color="#F59B33" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="5.51319676%" y1="42.9112092%" x2="87.3340956%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#F4873E" offset="0%"></stop>
+            <stop stop-color="#F7AA2A" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-3" points="1467.18512 1290.38859 2064.99281 1291.42902 2028.38183 1451.19618 1467.18512 1451.19619"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-5" transform="translate(-896.000000, -543.000000)">
+            <g id="Stripes">
+                <g transform="translate(-561.000000, -696.000000)" id="right-box">
+                    <g transform="translate(1766.088968, 1370.792387) rotate(348.000000) translate(-1766.088968, -1370.792387) ">
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+                        <use fill="url(#linearGradient-2)" xlink:href="#path-3"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

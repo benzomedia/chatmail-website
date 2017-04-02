@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="118px" height="36px" viewBox="0 0 118 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8.2254127,32.7321319 L6.29161158,33.4645414 C3.86335648,34.3842208 2.65044943,33.162112 3.56760113,30.7405309 L4.1878289,29.1029263 C1.66368896,26.0402431 0.154025401,22.1535364 0.154025401,17.9241127 C0.154025401,8.04156976 8.39645401,0.0301858376 18.564005,0.0301858376 C28.7315559,0.0301858376 36.9739845,8.04156976 36.9739845,17.9241127 C36.9739845,27.8066556 28.7315559,35.8180395 18.564005,35.8180395 C14.7315157,35.8180395 11.1725455,34.6797919 8.2254127,32.7321319 Z M9.15372735,11.1190432 L17.1153992,17.4295594 C17.4764278,17.7153906 17.9739331,17.8424266 18.4571559,17.8186074 C18.9395853,17.8424266 19.4370906,17.7161845 19.7981192,17.4295594 L27.759791,11.1190432 C28.3977404,10.6164568 28.253329,10.2043836 27.4439902,10.2043836 L18.4579494,10.2043836 L9.47190857,10.2043836 C8.66177633,10.2043836 8.5173649,10.6164568 9.15372735,11.1190432 Z M28.3350563,12.7840096 L19.6346645,19.3938545 C19.309342,19.6383989 18.883249,19.7574952 18.4587429,19.7519374 C18.0334433,19.7574952 17.6073502,19.6376049 17.2820278,19.3938545 L8.58004898,12.7840096 C7.9341649,12.2941268 7.40571429,12.5569326 7.40571429,13.3675815 L7.40571429,24.212491 C7.40571429,25.0231398 8.06905469,25.6869032 8.87918694,25.6869032 L18.4571559,25.6869032 L28.0359184,25.6869032 C28.8460506,25.6869032 29.509391,25.0231398 29.509391,24.212491 L29.509391,13.3675815 C29.509391,12.5569326 28.9809404,12.2941268 28.3350563,12.7840096 Z" id="path-1"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="6" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.642634737 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-5" transform="translate(-50.000000, -42.000000)">
+            <g id="logo" transform="translate(50.000000, 42.000000)">
+                <g id="black-envelope-copy" transform="translate(81.000000, 0.000000)" opacity="0.92811334">
+                    <g id="Capa_1-Copy">
+                        <g id="Group">
+                            <g id="Group-Copy-2">
+                                <g id="Combined-Shape">
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <text id="ChatMail" font-family="Nunito-Bold, Nunito" font-size="18.225" font-weight="bold" letter-spacing="0.0650892919" fill="#FFFFFF">
+                    <tspan x="0" y="28">ChatMail</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
