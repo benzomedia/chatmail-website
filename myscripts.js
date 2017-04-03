@@ -7,6 +7,7 @@ $(document).ready(function(){
     $('#email-form').on('submit', function(e) {
         e.preventDefault();
 
+        if($('#newsletter-email-input').val() === "") return false;
 
         $('#newsletter-spinner').css("display", "inline-block");
 
