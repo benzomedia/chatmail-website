@@ -18,6 +18,19 @@ body {
     /* IE6-9 */
 }
 
+.background:after {
+    content: "";
+    display: block;
+    position: absolute;
+    bottom: -8px;
+    left: -8px;
+    width: 102%;
+    background-image: url(images/wave.svg);
+    background-repeat: no-repeat;
+    height: 23%;
+    background-size: cover;
+ }
+
 .bold {
     font-weight: 600;
 }
